@@ -1,8 +1,1 @@
 # GIT
-# jkvejanwlafj
-pwvokçoikmçkmipok
-
-
-
-
-nuijhuoihboulh
