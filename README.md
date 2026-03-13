@@ -1,4 +1,5 @@
 # GIT
+<<<<<<< HEAD
 # jkvejanwlafj
 hoivdewhcoi
 pwvokçoikmçkmipok
@@ -7,3 +8,5 @@ pwvokçoikmçkmipok
 
 
 nuijhuoihboulh
+=======
+>>>>>>> main
